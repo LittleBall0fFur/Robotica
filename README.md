@@ -1,5 +1,6 @@
 # Robotica
-Robotica project NHL-Stenden Periode 4 2020. Dit project is ontwikkeld met verschillende opleidingen, namelijk Software Engineering, Werktuigbouwkunde en Elektrotechniek. Mijn persoonlijke aandeel van dit project is de aansturing van de robot en het implementeren van de verschillende onderdelen in het simulatie programma WeBots.
+Robotica project NHL-Stenden Periode 4 2020. Dit project is ontwikkeld met verschillende opleidingen, namelijk Software Engineering, Werktuigbouwkunde en Elektrotechniek. Mijn persoonlijke aandeel van dit project is de aansturing van de robot en het implementeren van de verschillende onderdelen in het simulatie programma WeBots. Dit valt te vinden onder: 
+Robotica/BungieSimulation/controllers/BungieController/RobotController/
 
 Programmeren in een WeBots Controller
 ==
